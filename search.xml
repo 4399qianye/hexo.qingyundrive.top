@@ -5,6 +5,33 @@
     
     <entry>
       
+        <title>利用Clouflare反向代理隐藏端口[亲测有效]</title>
+      
+      <link href="/%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%B7%AF/cfdaili/"/>
+      <url>/%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%B7%AF/cfdaili/</url>
+      
+        <content type="html"><![CDATA[<ul><li><a href="#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C">准备工作</a></li><li><a href="#%E5%BC%80%E5%A7%8B%E5%AE%9E%E8%B7%B5">开始实践</a></li><li><a href="#CNAME%E8%A7%A3%E6%9E%90%E6%B7%BB%E5%8A%A0%E5%B7%AE%E5%BC%82">CNAME解析添加差异</a></li><li><a href="#%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E5%BB%BA%E8%AE%AE">异常处理与建议</a></li></ul><h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><ol><li>一个域名</li><li>Cloudflare账号</li><li>公网服务器或者家里的NAS</li></ol><h1 id="开始实践"><a href="#开始实践" class="headerlink" title="开始实践"></a>开始实践</h1><ol><li>打开Cloudflare官网并登录<br><img src="https://img.qingyundrive.top:2053/upload/2023-04-21/2304210847525100.png"></li><li>选择我们要添加解析的域名<br><img src="https://img.qingyundrive.top:2053/upload/2023-04-21/2304210848481273.png"></li><li>进入域名详细界面后点击DNS<br><img src="https://img.qingyundrive.top:2053/upload/2023-04-21/2304210850004884.png"></li><li>按照正常域名解析记录添加方法进行添加，小云朵必须是橙色（即代理状态为已代理）不清楚的可以看图（此处以IPV4为例）<br><img src="https://img.qingyundrive.top:2053/upload/2023-04-21/2304210851408432.png"></li><li>我们点击左侧菜单栏中的规则，找到Origin Rules并点击<br><img src="https://img.qingyundrive.top:2053/upload/2023-04-21/2304210853287908.png"> </li><li>点击创建规则<br><img src="https://img.qingyundrive.top:2053/upload/2023-04-21/2304210854141759.png"></li><li>随后填写规则名称（随便写）、字段选择主机名，运算符选择等于，后面的值填写我们刚才添加DNS记录的名称+域名本体，例如：刚才添加的记录名称为：www,域名为jiyuqy.ml那么此处应该填写:<a href="http://www.jiyuqy.ml{不懂的可以看图}/">www.jiyuqy.ml{不懂的可以看图}</a><br><img src="https://img.qingyundrive.top:2053/upload/2023-04-21/2304210858071640.png"><br>访问网址查看是否成功<br><strong>我这边等了大概有5分钟左右</strong>具体也没准.</li></ol><h1 id="CNAME解析添加差异"><a href="#CNAME解析添加差异" class="headerlink" title="CNAME解析添加差异"></a>CNAME解析添加差异</h1><p>话不多说看图：<br><img src="https://img.qingyundrive.top:2053/upload/2023-04-21/2304210902562337.png"></p><h1 id="异常处理"><a href="#异常处理" class="headerlink" title="异常处理"></a>异常处理</h1><p>还没遇到过，如果有尝试下魔法，看看是不是被墙了<br>建议：配合DDNS-GO使用更佳！（前提是你得有个付费买的域名）<br>实在解决不了的联系q：2591260990<br>图片有问题的，无法放大的请前往主站点查看！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程之路 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Cloudflare教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
         <title>世界，你好！我们重新开始！</title>
       
       <link href="/%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4/hello-world/"/>
