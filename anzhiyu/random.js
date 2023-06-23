@@ -1,0 +1,1 @@
+var posts=["生活点滴/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
