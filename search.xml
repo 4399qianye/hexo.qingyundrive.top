@@ -5,6 +5,33 @@
     
     <entry>
       
+        <title>中望CAD 2024(标准、机械、建筑版) 轻度精简直装</title>
+      
+      <link href="/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/zwcad2024jiaochneg/"/>
+      <url>/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/zwcad2024jiaochneg/</url>
+      
+        <content type="html"><![CDATA[<ul><li><a href="#%E8%AF%B4%E6%98%8E">说明</a></li><li><a href="#%E9%85%8D%E5%A5%97%E8%BD%AF%E4%BB%B6%E5%8C%85">配套软件包</a></li><li><a href="#%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B">安装教程</a></li></ul><h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p><code>1、有关安装时期使用的硬件，请参考《测试环境》 2随着便件的升级，我们不保证此教程一定适用于之前或者之后的系统版本。3教程均在原版系统下制作。受电脑内已安装软件数量、版本影响，截图内容未必一定与您实际安装内容完全 致。请以安装结果作为判断依据。 4、如无特殊说明，我们默认您正在使用管理员账户操作，或者您拥有管理员密码。 5、如无特殊说明，我们默认您的计算机已经联网。 </code></p><h1 id="适配软件包"><a href="#适配软件包" class="headerlink" title="适配软件包"></a>适配软件包</h1><p><code>1. https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCADA_2024_Chs_Lite.rar?sign=yKUMHy_lYuF_OR51TvWtwR1-6VOs47q76endhdOSHKk=:4572606874 2.https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCADM_2024_Chs_Lite.rar?sign=h7-GLSwg1kajYsh-RGN_awFqNSvVqdhWXIKyPYt5rZM=:4572606973 3.https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCAD_2024_Chs_Lite.rar?sign=TbIkiehkK0KDVb-5ptOiAyLNqZEn9Uvw1uqgj0kYZ_A=:4572606982</code></p><h1 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h1><p>《中望CAD标准版&#x2F;机械版&#x2F;建筑版 2024 简体中文轻度精简直装版》<br>安装过程<br><code>本文以《中望CAD 2024机械版》进行演示，标准版和建筑版与其安装流程一致</code></p><ol><li>解压相关软件包。</li><li>双击运行Setup.exe。<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251003539828.jpg"></li><li>点击上方的“浏览”，可修改安装目录。修改完毕后，点击“下一步”继续。<code>软件一定不能安装在C盘</code><br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251005218607.jpg"></li><li>浏览完协议后点击灰色的“同意并安装”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251010019784.jpg"></li><li>在弹出的对话框中再次点击“同意并安装”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251011069472.jpg"></li><li>正在安装耐心等待……<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251011473273.jpg"></li><li>安装完成，可以在上方选择您需要的界面模式 (默认经典，可选Ribbon)<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251012488965.jpg"></li><li>点击“完成”结束安装或点击“启动”直接打开软件。</li><li>若出现以下对话框请跳转之第16步，否则请继续执行第10步<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251013406466.jpg"></li><li>在开始菜单中找到并打开“许可证管理器<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251016033303.jpg"></li><li>点击“激活许可证”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251016441142.jpg"></li><li>依次点击“浮动许可”-“仅配置不查询’<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251017121029.jpg"></li><li>在“服务器名称”处输入“localhost”或“127.0.0.1”。端口号根据自己实际情况修改。输入完毕后，点击“激活“<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251017376743.jpg"></li><li>点击“完成”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251017591784.jpg"></li><li>确认出现许可证信息后点击“退出”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251018213190.jpg"></li><li>返回桌面快捷方式即可打开中望CAD2024&#x2F;中望CAD2024机械版&#x2F;中望CAD2024建筑版<br><strong><span style="color: red;">本文作者不对使用以上资源所造成的一切后果负责！请各位悉知！</span></strong></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习生涯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 中望CAD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
         <title>利用Clouflare反向代理隐藏端口[亲测有效]</title>
       
       <link href="/%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%B7%AF/cfdaili/"/>
