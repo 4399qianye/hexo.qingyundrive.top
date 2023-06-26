@@ -5,6 +5,60 @@
     
     <entry>
       
+        <title>中望3D全版本安装教程</title>
+      
+      <link href="/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/zw3djiaocheng/"/>
+      <url>/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/zw3djiaocheng/</url>
+      
+        <content type="html"><![CDATA[<ul><li><a href="#%E8%AF%B4%E6%98%8E">说明</a></li><li><a href="#%E9%85%8D%E5%A5%97%E8%BD%AF%E4%BB%B6%E5%8C%85">配套软件包</a></li><li><a href="#%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B">安装教程</a></li></ul><h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p><code>1、有关安装时期使用的硬件，请参考《测试环境》 2随着便件的升级，我们不保证此教程一定适用于之前或者之后的系统版本。3教程均在原版系统下制作。受电脑内已安装软件数量、版本影响，截图内容未必一定与您实际安装内容完全 致。请以安装结果作为判断依据。 4、如无特殊说明，我们默认您正在使用管理员账户操作，或者您拥有管理员密码。 5、如无特殊说明，我们默认您的计算机已经联网。 </code></p><h1 id="适配软件包"><a href="#适配软件包" class="headerlink" title="适配软件包"></a>适配软件包</h1><p>此目录下所有ZW3D开头软件包 <a href="https://app.qingyunltd.eu.org:8443/%E4%B8%AD%E6%9C%9B3D">https://app.qingyunltd.eu.org:8443/%E4%B8%AD%E6%9C%9B3D</a></p><h1 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h1><p>《中望3D全版本通用教程》<br>安装过程<br><code>本文以《中望3D 2023 直装特别版》进行演示，之前的中望3D直装版其安装流程一致。</code><br><code>**如果本机装有卡巴斯基，请在安装前暂停其防护，否则有可能会出现进程被终止的情况**</code><br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260900469579.png"><br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260901346120.png"></p><ol><li>解压相关软件包。</li><li>以管理员身份运行“开始安装.exe“。<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260900135806.png"></li><li>勾选左下角的“同意”复选框。<code>*早期版本可以不用以管理员身份安装，但为减少翻车几率，我们仍然建议手动以管理员身份运行。</code><br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260903552537.png"></li><li>点击上方的“浏览”，可修改安装目录。修改完毕后，点击“下一步”继续。<code>软件一定不能安装在C盘</code>勾上同意协议后点击“立即安装”</li><li>点击立即安装并耐心等待……</li><li>正在安装中，请耐心等待……<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260906387662.png"></li><li>安装完成，点击“完成”退出安装程序<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260908282794.png"><br><strong><code>不要点击“激活”和“启动”。此时许可证信息还没写进系统!</code></strong></li><li>关闭安装程序后，会弹出一个对话框，表示激活完毕。此时可以正常使用中望3D了。<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260911457989.png"><br><strong><span style="color: red;">本文作者不对使用以上资源所造成的一切后果负责！请各位悉知！</span></strong></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习生涯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 中望3D </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
+        <title>中望CAD 2023(标准、机械、建筑版) 轻度精简直装</title>
+      
+      <link href="/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/zwcad2023jiaocheng/"/>
+      <url>/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/zwcad2023jiaocheng/</url>
+      
+        <content type="html"><![CDATA[<ul><li><a href="#%E8%AF%B4%E6%98%8E">说明</a></li><li><a href="#%E9%85%8D%E5%A5%97%E8%BD%AF%E4%BB%B6%E5%8C%85">配套软件包</a></li><li><a href="#%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B">安装教程</a></li></ul><h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p><code>1、有关安装时期使用的硬件，请参考《测试环境》 2随着便件的升级，我们不保证此教程一定适用于之前或者之后的系统版本。3教程均在原版系统下制作。受电脑内已安装软件数量、版本影响，截图内容未必一定与您实际安装内容完全 致。请以安装结果作为判断依据。 4、如无特殊说明，我们默认您正在使用管理员账户操作，或者您拥有管理员密码。 5、如无特殊说明，我们默认您的计算机已经联网。 </code></p><h1 id="适配软件包"><a href="#适配软件包" class="headerlink" title="适配软件包"></a>适配软件包</h1><ol><li><a href="https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCADA_2023_SP2_Chs_Lite.rar?sign=Rhfl7rTooskeIb5QHeKJGldAEu-3s3OSm6-mrRAF7xU=:4572645543">https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCADA_2023_SP2_Chs_Lite.rar?sign=Rhfl7rTooskeIb5QHeKJGldAEu-3s3OSm6-mrRAF7xU=:4572645543</a></li><li><a href="https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCADM_2023_SP2_Chs_Lite.rar?sign=IAxy9T2dReRnk3BOg6UHapxVmTF34kvQzskcAnlyMI0=:4572645567">https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCADM_2023_SP2_Chs_Lite.rar?sign=IAxy9T2dReRnk3BOg6UHapxVmTF34kvQzskcAnlyMI0=:4572645567</a></li><li><a href="https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCAD_2023_SP2_Chs_Lite.rar?sign=z4bSC5ycaOIJzs85RE-bu6hpMWqObMAZF2IUcI3GjIg=:4572645586">https://app.qingyunltd.eu.org:8443/d/%E4%B8%AD%E6%9C%9BCAD/ZWCAD_2023_SP2_Chs_Lite.rar?sign=z4bSC5ycaOIJzs85RE-bu6hpMWqObMAZF2IUcI3GjIg=:4572645586</a></li></ol><h1 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h1><p>《中望CAD标准版&#x2F;机械版&#x2F;建筑版 2023 简体中文纯净版》<br>安装过程<br><code>本文以《中望CAD 2023机械版 简体中文纯净版》进行演示，《中望CAD 2023 简体中文纯净版》与其安装流程 。</code></p><ol><li><p>解压相关软件包。</p></li><li><p>双击运行Setup.exe。<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260846315796.png"></p></li><li><p>点击上方的“浏览”，可修改安装目录。修改完毕后，点击“下一步”继续。<code>软件一定不能安装在C盘</code>勾上同意协议后点击“立即安装”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260846541699.png"></p></li><li><p>正在安装耐心等待……<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260847219831.png"></p></li><li><p>安装完成，可以在上方选择您需要的界面模式 (默认经典，可选Ribbon)<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-26/2306260851014886.png"></p></li><li><p>点击“完成”结束安装或点击“启动”直接打开软件。</p></li><li><p>若出现以下对话框(2023版本弹窗相同)请跳转之第16步，否则请继续执行第10步<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251013406466.jpg"></p></li><li><p>在开始菜单中找到并打开“许可证管理器<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251016033303.jpg"></p></li><li><p>点击“激活许可证”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251016441142.jpg"></p></li><li><p>依次点击“浮动许可”-“仅配置不查询’<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251017121029.jpg"></p></li><li><p>在“服务器名称”处输入“localhost”或“127.0.0.1”。端口号根据自己实际情况修改。输入完毕后，点击“激活“<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251017376743.jpg"></p></li><li><p>点击“完成”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251017591784.jpg"></p></li><li><p>确认出现许可证信息后点击“退出”<br><img src="https://img.qingyundrive.top:2053/upload/2023-06-25/2306251018213190.jpg"></p></li><li><p>返回桌面快捷方式即可打开中望CAD2023&#x2F;中望CAD2023机械版&#x2F;中望CAD2023建筑版<br><strong><span style="color: red;">本文作者不对使用以上资源所造成的一切后果负责！请各位悉知！</span></strong></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习生涯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 中望CAD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      
         <title>中望CAD 2024(标准、机械、建筑版) 轻度精简直装</title>
       
       <link href="/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/zwcad2024jiaochneg/"/>
